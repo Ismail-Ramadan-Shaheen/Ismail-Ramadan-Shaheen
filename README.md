@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismail Shaheen</h1>
-<h3 align="center">👨‍💻 Computer engineering student at Cairo University, passionate about problem-solving and frontend developement</h3>
+<h3 align="center">👨‍💻 Computer engineering student at Cairo University, passionate about problem-solving and frontend development</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
